@@ -1,4 +1,0 @@
-PPL = "countries/Papi Land.txt"
-CPW = "countries/Cypowice.txt"
-CML = "countries/Michealreich.txt"
-KSZ = "countries/Kszajpańsk.txt"
