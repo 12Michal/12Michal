@@ -1,0 +1,14 @@
+characters={
+    Wielki_slazak={
+        name=Wielki_slazak
+        portraits={
+            civilian={
+                
+            }
+        }
+
+
+    }
+
+
+}
