@@ -1,1 +1,0 @@
-KLL = "countries/Karolinkolandia.txt"
