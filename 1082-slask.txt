@@ -1,0 +1,25 @@
+state={
+	id=1082
+	name="STATE_1082"
+	history = {
+
+		owner = PPL
+		add_core_of = PPL
+		add_core_of = SIL
+		add_core_of = PRE
+
+		victory_points = {
+			6595 5 # Gleiwitz
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		
+	}
+	provinces={
+		552 3438 3572 6534 6595 9470 11517 
+	}
+	manpower=3
+	buildings_max_level_factor=1
+	local_supplies=10
+}
